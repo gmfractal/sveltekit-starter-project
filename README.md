@@ -1,4 +1,8 @@
-# create-svelte
+# sveltekit-starter-project
+
+This is a Sveltekit starter project set up to use SCSS and Typescript.
+
+## create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
